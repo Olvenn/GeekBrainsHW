@@ -1,0 +1,14 @@
+D:\Geekbrains\GeekBrainsHW\HW\work\bin\Debug\net7.0\work.exe
+D:\Geekbrains\GeekBrainsHW\HW\work\bin\Debug\net7.0\work.deps.json
+D:\Geekbrains\GeekBrainsHW\HW\work\bin\Debug\net7.0\work.runtimeconfig.json
+D:\Geekbrains\GeekBrainsHW\HW\work\bin\Debug\net7.0\work.dll
+D:\Geekbrains\GeekBrainsHW\HW\work\bin\Debug\net7.0\work.pdb
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.AssemblyInfoInputs.cache
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.AssemblyInfo.cs
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.csproj.CoreCompileInputs.cache
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.dll
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\refint\work.dll
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.pdb
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\work.genruntimeconfig.cache
+D:\Geekbrains\GeekBrainsHW\HW\work\obj\Debug\net7.0\ref\work.dll
