@@ -26,3 +26,17 @@ D:\Geekbrains\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.dll
 D:\Geekbrains\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.pdb
 D:\Geekbrains\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.genruntimeconfig.cache
 D:\Geekbrains\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\ref\HW-3-Arrays.dll
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.exe
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.deps.json
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.runtimeconfig.json
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.dll
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\bin\Debug\net7.0\HW-3-Arrays.pdb
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.AssemblyInfoInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.AssemblyInfo.cs
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.csproj.CoreCompileInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.dll
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\refint\HW-3-Arrays.dll
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.pdb
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\HW-3-Arrays.genruntimeconfig.cache
+D:\Geek\GeekBrainsHW\HW\HW-3-Arrays\obj\Debug\net7.0\ref\HW-3-Arrays.dll
