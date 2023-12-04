@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {}
+    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj": {}
   },
   "projects": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {
+    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
-        "projectName": "HW-3-Arrays",
-        "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
+        "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
+        "projectName": "HW-4-MultiArray",
+        "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\obj\\",
+        "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

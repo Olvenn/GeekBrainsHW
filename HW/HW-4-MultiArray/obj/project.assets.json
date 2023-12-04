@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj",
-      "projectName": "work",
-      "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj",
+      "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
+      "projectName": "HW-4-MultiArray",
+      "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\obj\\",
+      "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
