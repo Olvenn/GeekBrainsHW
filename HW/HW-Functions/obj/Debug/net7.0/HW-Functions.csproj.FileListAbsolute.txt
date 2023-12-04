@@ -1,0 +1,14 @@
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.AssemblyInfoInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.AssemblyInfo.cs
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.csproj.CoreCompileInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-Functions\bin\Debug\net7.0\HW-Functions.exe
+D:\Geek\GeekBrainsHW\HW\HW-Functions\bin\Debug\net7.0\HW-Functions.deps.json
+D:\Geek\GeekBrainsHW\HW\HW-Functions\bin\Debug\net7.0\HW-Functions.runtimeconfig.json
+D:\Geek\GeekBrainsHW\HW\HW-Functions\bin\Debug\net7.0\HW-Functions.dll
+D:\Geek\GeekBrainsHW\HW\HW-Functions\bin\Debug\net7.0\HW-Functions.pdb
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.dll
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\refint\HW-Functions.dll
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.pdb
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\HW-Functions.genruntimeconfig.cache
+D:\Geek\GeekBrainsHW\HW\HW-Functions\obj\Debug\net7.0\ref\HW-Functions.dll
