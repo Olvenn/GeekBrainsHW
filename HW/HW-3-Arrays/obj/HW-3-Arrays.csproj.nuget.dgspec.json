@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {}
+    "D:\\Geek\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {}
   },
   "projects": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {
+    "D:\\Geek\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
+        "projectUniqueName": "D:\\Geek\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
         "projectName": "HW-3-Arrays",
-        "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-3-Arrays\\obj\\",
+        "projectPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-3-Arrays\\HW-3-Arrays.csproj",
+        "packagesPath": "C:\\Users\\tpgsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-3-Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tpgsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

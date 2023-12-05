@@ -194,22 +194,30 @@ int[,] removeRowAndColFromArray(int[,] array)
     }
   }
   int[,] resArray = new int[array.GetLength(0) - 1, array.GetLength(1) - 1];
+  int x = -1;
   for (int i = 0; i < array.GetLength(0); i++)
   {
-    int k = i;
+    int y = 0;
+
     if (i == rowIndex)
     {
-      k--;
+
+      continue;
     }
     else
     {
-      for (int j = 0; j < array.GetLength(1) - 1; j++)
-        resArray[k, j] = array[k, j];
+      x++;
     }
-
+    for (int j = 0; j < array.GetLength(1); j++)
+      if (j == colIndex)
+      {
+        continue;
+      } else {
+        resArray[x, y] = array[i, j];
+        y++;
+      }
   }
-
-
+  System.Console.WriteLine(min);
   return resArray;
 }
 

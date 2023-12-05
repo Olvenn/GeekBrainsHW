@@ -12,3 +12,17 @@ D:\Geekbrains\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\refint\HW-4-Multi
 D:\Geekbrains\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.pdb
 D:\Geekbrains\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.genruntimeconfig.cache
 D:\Geekbrains\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\ref\HW-4-MultiArray.dll
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\bin\Debug\net7.0\HW-4-MultiArray.exe
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\bin\Debug\net7.0\HW-4-MultiArray.deps.json
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\bin\Debug\net7.0\HW-4-MultiArray.runtimeconfig.json
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\bin\Debug\net7.0\HW-4-MultiArray.dll
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\bin\Debug\net7.0\HW-4-MultiArray.pdb
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.AssemblyInfoInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.AssemblyInfo.cs
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.csproj.CoreCompileInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.dll
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\refint\HW-4-MultiArray.dll
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.pdb
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\HW-4-MultiArray.genruntimeconfig.cache
+D:\Geek\GeekBrainsHW\HW\HW-4-MultiArray\obj\Debug\net7.0\ref\HW-4-MultiArray.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj": {}
+    "D:\\Geek\\GeekBrainsHW\\HW\\work\\work.csproj": {}
   },
   "projects": {
-    "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj": {
+    "D:\\Geek\\GeekBrainsHW\\HW\\work\\work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj",
+        "projectUniqueName": "D:\\Geek\\GeekBrainsHW\\HW\\work\\work.csproj",
         "projectName": "work",
-        "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\work.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\work\\obj\\",
+        "projectPath": "D:\\Geek\\GeekBrainsHW\\HW\\work\\work.csproj",
+        "packagesPath": "C:\\Users\\tpgsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Geek\\GeekBrainsHW\\HW\\work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tpgsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
