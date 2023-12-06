@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tpgsh\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Geek\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
+      "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
       "projectName": "HW-4-MultiArray",
-      "projectPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
-      "packagesPath": "C:\\Users\\tpgsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-4-MultiArray\\obj\\",
+      "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\HW-4-MultiArray.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-4-MultiArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tpgsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tpgsh\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Geek\\GeekBrainsHW\\HW\\HW-Functions\\HW-Functions.csproj",
+      "projectUniqueName": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-Functions\\HW-Functions.csproj",
       "projectName": "HW-Functions",
-      "projectPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-Functions\\HW-Functions.csproj",
-      "packagesPath": "C:\\Users\\tpgsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Geek\\GeekBrainsHW\\HW\\HW-Functions\\obj\\",
+      "projectPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-Functions\\HW-Functions.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Geekbrains\\GeekBrainsHW\\HW\\HW-Functions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tpgsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
