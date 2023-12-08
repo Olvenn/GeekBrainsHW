@@ -222,3 +222,4 @@ int[,] removeRowAndColFromArray(int[,] array)
 }
 
 Show2dArray(removeRowAndColFromArray(testArray));
+git 
