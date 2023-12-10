@@ -1,0 +1,14 @@
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.AssemblyInfoInputs.cache
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.AssemblyInfo.cs
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.csproj.CoreCompileInputs.cache
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\bin\Debug\net7.0\HW-6-String.exe
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\bin\Debug\net7.0\HW-6-String.deps.json
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\bin\Debug\net7.0\HW-6-String.runtimeconfig.json
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\bin\Debug\net7.0\HW-6-String.dll
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\bin\Debug\net7.0\HW-6-String.pdb
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.dll
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\refint\HW-6-String.dll
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.pdb
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\HW-6-String.genruntimeconfig.cache
+D:\Geekbrains\GeekBrainsHW\HW\HW-6-String\obj\Debug\net7.0\ref\HW-6-String.dll
