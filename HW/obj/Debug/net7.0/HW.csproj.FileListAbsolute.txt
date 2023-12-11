@@ -1,0 +1,4 @@
+D:\Geekbrains\GeekBrainsHW\HW\obj\Debug\net7.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\GeekBrainsHW\HW\obj\Debug\net7.0\HW.AssemblyInfoInputs.cache
+D:\Geekbrains\GeekBrainsHW\HW\obj\Debug\net7.0\HW.AssemblyInfo.cs
+D:\Geekbrains\GeekBrainsHW\HW\obj\Debug\net7.0\HW.csproj.CoreCompileInputs.cache
