@@ -49,14 +49,22 @@ char[,] Create2dArray(int row, int col, char[] charArray)
   return array;
 }
 
+string[] CreateWordsArray(int size, string[] wordsArray)
+{
+  string[] array = new string[size];
+    for (int i = 0; i < size; i++)
+    {
+      string randomChar = wordsArray[new Random().Next(1, wordsArray.Length - 1)];
+      array[i] = randomChar;
+    }
+  return array;
+}
+
 char[] letters = Enumerable.Range('a', 'z' - 'a' + 1).
                  Select(c => (char)c).ToArray();
 
 char[] letters2 = Enumerable.Range('A', 'Z' - 'A' + 1).
                   Select(c => (char)c).ToArray();
-
-char[] letters3 = Enumerable.Range(34, 126 + 1).
-                  Select(c => (char)c).ToArray(); // "~
 
 char[] createCharArray(char start, char finish) {
   char[] chars = Enumerable.Range(start, finish - start + 1).
@@ -64,19 +72,13 @@ char[] createCharArray(char start, char finish) {
   return chars;            
 }
 
-ShowCharsArr(letters3);
-
-System.Console.WriteLine();
-
-// ShowCharsArr(alphabet);
 System.Console.WriteLine();
 char[] alphabet = createCharArray('a', 'z').Concat(createCharArray('A', 'Z')).ToArray();
 
+// Задайте двумерный массив символов (тип char [,]). 
 char[,] char2dArray = Create2dArray(3, 3, alphabet);
 Show2dCharsArr(char2dArray);
 System.Console.WriteLine();
-
-// Задайте двумерный массив символов (тип char [,]). 
 // Создать строку из символов этого массива.
 
 string createStringFromArray(char[,] arrayIn)
@@ -129,8 +131,27 @@ Console.Write(IsPalindrome(shortString));
 System.Console.WriteLine();
 
 
+
+// Задача 4*(не обязательная): Задайте строку, состоящую из слов, разделенных пробелами. Сформировать строку, в которой слова расположены в обратном порядке. В полученной строке слова должны быть также разделены пробелами.
+
 string temp = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
 
-string[] wordsArray = temp.Split(' ').Distinct().ToArray();
+string[] wordsIncomeArray = temp.Split(' ').Distinct().ToArray();
 
-ShowWordsArr(wordsArray);
+string[] reverseArray(int size, string[] array) {
+  string[] incomeArray = CreateWordsArray(size, array);
+  ShowWordsArr(incomeArray);
+  System.Console.WriteLine();
+
+  string[] newArr = (string[])incomeArray.Clone();
+  Array.Reverse(newArr);
+
+  return newArr;
+}
+
+ShowWordsArr(reverseArray(5, wordsIncomeArray));
+System.Console.WriteLine();
+
+
+
+
