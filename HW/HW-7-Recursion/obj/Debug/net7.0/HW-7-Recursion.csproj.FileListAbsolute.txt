@@ -12,3 +12,17 @@ D:\Geekbrains\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\refint\HW-7-Recurs
 D:\Geekbrains\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.pdb
 D:\Geekbrains\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.genruntimeconfig.cache
 D:\Geekbrains\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\ref\HW-7-Recursion.dll
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\bin\Debug\net7.0\HW-7-Recursion.exe
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\bin\Debug\net7.0\HW-7-Recursion.deps.json
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\bin\Debug\net7.0\HW-7-Recursion.runtimeconfig.json
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\bin\Debug\net7.0\HW-7-Recursion.dll
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\bin\Debug\net7.0\HW-7-Recursion.pdb
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.AssemblyInfoInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.AssemblyInfo.cs
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.csproj.CoreCompileInputs.cache
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.dll
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\refint\HW-7-Recursion.dll
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.pdb
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\HW-7-Recursion.genruntimeconfig.cache
+D:\Geek\GeekBrainsHW\HW\HW-7-Recursion\obj\Debug\net7.0\ref\HW-7-Recursion.dll
