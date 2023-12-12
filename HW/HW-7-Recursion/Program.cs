@@ -18,7 +18,7 @@ void printNums(int M, int N) {
   }
 
   if(N > M & M > 0) {
-    Console.Write(M + " " + N);
+    Console.Write(M + " ");
     printNums(M + 1, N);
   } else if (N == M)
   {
@@ -26,7 +26,9 @@ void printNums(int M, int N) {
   }
 }
 
-printNums(0, 0);
+printNums(3, 10);
+
+System.Console.WriteLine();
 
 // Задача 2: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
 
@@ -38,7 +40,6 @@ int Ackermann(int m, int n) {
     return n + 1;
   } else if ((m != 0) && (n == 0)) {
       return Ackermann(m - 1, 1);
-      // 3 - 1, 1
     } else {
     return Ackermann(m - 1, Ackermann(m, n - 1));
     
